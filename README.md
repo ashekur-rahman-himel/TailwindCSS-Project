@@ -2,7 +2,7 @@
 
 # live link
 
-https://ashekur-rahman-himel.github.io/Tailwind-Project/
+
 
 
 ## Figma Link
